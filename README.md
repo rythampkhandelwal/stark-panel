@@ -1,16 +1,15 @@
-# StaRk Panel Source Code
+# StaRk Panel
 
-Downloaded and customized from: `https://catconnections.netlify.app/`
+A modern device management console with real-time Firebase integration.
 
 ## Project Structure
 
 ```text
 Website/
-├── index.html            # Standalone single-file production website with StaRk branding
-├── index.original.html   # Exact original downloaded from Netlify
+├── index.html            # Standalone single-file production website
 ├── favicon.ico           # Website favicon
 ├── README.md             # Project documentation
-└── src/                  # Modularized & human-readable source files
+└── src/                  # Modular development source files
     ├── index.html        # Clean HTML linking external CSS and JS
     ├── favicon.ico       # Website favicon
     ├── css/
